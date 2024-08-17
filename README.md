@@ -8,5 +8,5 @@
 ex) /src/hoge.ts を 10個複製する
 
 ```bash
-. ./loop-copy.sh ./src/hoge.ts 10
+bash ./loop-copy.sh ./src/hoge.ts 10
 ```
